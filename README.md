@@ -2,5 +2,5 @@
 
 ## Schematic
 “Diagram”
-![Schematic]( https://github.com/RSZ-Nld/HRX80-Fox-Hunting-80-Meter/blob/master/hrx80r1b.gif)
+!![Schematic]( https://github.com/RSZ-Nld/HRX80-Fox-Hunting-80-Meter/blob/master/hrx80r1b.gif)
 
