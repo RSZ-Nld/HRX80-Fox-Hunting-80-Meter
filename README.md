@@ -3,7 +3,7 @@
 ## Schematic
 “Diagram”
 ![Schematic]( https://github.com/RSZ-Nld/HRX80-Fox-Hunting-80-Meter/blob/master/hrx80r1b.gif)
-Top Pcb
-![Top Pcb]( https://github.com/RSZ-Nld/HRX80-Fox-Hunting-80-Meter/blob/master/Top.jpg)
-Top Pcb
+## Top Pcb
+![Top Pcb]( https://github.com/RSZ-Nld/HRX80-Fox-Hunting-80-Meter/blob/master/Top.JPG)
+
 
